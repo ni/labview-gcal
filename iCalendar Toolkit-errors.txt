@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="GCal" displayname="GCal">
+</nifamily>
+</nicomment>
+<nierror code="403585">
+Please make sure that all the info mentioned in the instructions is filled up correctly
+</nierror>
+</nidocument>
